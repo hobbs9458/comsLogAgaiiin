@@ -2,6 +2,9 @@ body {
     background: salmon;
     color: teal;
     font-weight: bold;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+
 }
 
 p {
